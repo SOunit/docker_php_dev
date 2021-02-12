@@ -16,6 +16,7 @@
 <body>
     <h1>Test</h1>
     <p><?php echo $test ?></p>
+    <a href="http://localhost:4040">phpmyadmin</a>
 </body>
 
 </html>
